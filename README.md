@@ -51,3 +51,37 @@ Seguiu les instruccions per començar una partida:
 
 No oblideu disfruta de la partida i que no us guanyi l'ordinador, 
 Bona Sort!
+
+## Posibles errors
+
+**paquet Random**
+
+Per poder importar `System.Random`, segurament haureu d'instal·lar
+abans el paquet `random`. En Mac:
+
+```bash
+> brew install cabal-install
+> cabal update
+> cabal install --lib random
+```
+
+En Ubuntu:
+
+```bash
+> sudo apt install cabal-install
+> cabal update
+> cabal install random
+```
+
+Sembla que segons els sistema i la versió cal jugar una mica
+amb el `--lib`.
+
+**format del joc**
+
+Pot ser que al executar el programa `./joc` no es formategi correctament la sortida del programa.
+
+Si es així, podeu utilitzar l'interpret de Haskell `ghci`.
+
+En Mac, `brew install ghc`
+
+En Linux, `sudo apt install ghc`
