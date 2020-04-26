@@ -5,7 +5,7 @@ Pràctica de Haskell per l'assignatura de Llenguatges de Programació(LP) durant
 
 ## Introducció
 
-Consisteix en un programa en Haskell que permet jugar al Quatre en ratlla contra diferentes dificultats de l'ordinador.
+Consisteix en un programa en Haskell que permet jugar al **Quatre en ratlla** contra diferentes dificultats de l'ordinador.
 
 ![](connect4.png)
 
