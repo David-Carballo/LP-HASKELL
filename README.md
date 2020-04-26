@@ -7,7 +7,7 @@ Pràctica de Haskell per l'assignatura de Llenguatges de Programació(LP) durant
 
 Consisteix en un programa en Haskell que permet jugar al Quatre en ratlla contra diferentes dificultats de l'ordinador.
 
-![](4ratlla.png)
+![](connect4.png)
 
 Es juga en un tauler `n` × `m`, on `n` i `m` es
 defineixen al iniciar la partida. El cas més habitual és el 6×7, és a dir, 6
