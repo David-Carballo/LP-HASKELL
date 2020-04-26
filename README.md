@@ -9,7 +9,7 @@ Consisteix en un programa en Haskell que permet jugar al Quatre en ratlla contra
 
 ![](4ratlla.png)
 
-El joc del quatre en ratlla es juga en un tauler `n` × `m`, on `n` i `m` es
+Es juga en un tauler `n` × `m`, on `n` i `m` es
 defineixen al iniciar la partida. El cas més habitual és el 6×7, és a dir, 6
 files i 7 columnes. Cada jugador té `n`×`m` fitxes d'un mateix color. Per
 exemple, unes son vermelles i les altres grogues. Els jugadors introdueixen
