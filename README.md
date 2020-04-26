@@ -85,3 +85,9 @@ Si es així, podeu utilitzar l'interpret de Haskell `ghci`.
 En Mac, `brew install ghc`
 
 En Linux, `sudo apt install ghc`
+
+I executeu les següents comandes:
+
+- obrir l'interpret `ghci`
+- carregueu el codi `:load joc.hs`
+- crideu la funcio `main`
