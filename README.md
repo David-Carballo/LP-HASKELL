@@ -47,5 +47,7 @@ Seguiu les instruccions per començar una partida:
 - indiqueu la `mesura del tauler` (cas més habitual 6x7)
 - seleccioneu `qui comença` i quin `color` sou
 
+![](gameterminal.png)
+
 No oblideu disfruta de la partida i que no us guanyi l'ordinador, 
 Bona Sort!
